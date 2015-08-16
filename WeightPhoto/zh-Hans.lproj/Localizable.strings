@@ -1,0 +1,203 @@
+/* Cancel Text */
+"Cancel" = "取消";
+
+/* Open Text */
+"Open" = "打开";
+
+/* OK Text */
+"OK" = "好的";
+
+/* App Version Text */
+"App Version" = "版本 %@";
+
+/* Feedback Mail Subject */
+"FeedbackSubject" = "写下反馈意见";
+
+/* Feedback Mail Body */
+"FeedbackBody" = "用好评激励我们，或者指出错误帮助我们改进，我们很希望得到你的反馈";
+
+/* Leaving Alert Title */
+"LeavingAlertTitle" = "离开此应用？";
+
+/* Leaving Alert Message */
+"LeavingAlertMessage" = "你的操作请求开启外部应用，你希望继续吗？";
+
+/* Setting Mail Alert Title */
+"MailAlertTitle" = "需要邮件账户";
+
+/* Setting Mail Alert Message */
+"MailAlertMessage" = "若想设置账户，请按主屏幕键，然后点“设置”，再点“邮件、通讯录、日历”。";
+
+/* Fat Text */
+"Fat" = "肥胖";
+
+/* Health Text */
+"Health" = "正常";
+
+/* Overweight Text */
+"Overweight" = "超重";
+
+/* Thin Text */
+"Thin" = "偏瘦";
+
+/* Future Text */
+"Future" = "未来";
+
+/* One Month Ago Text */
+"OneMonthAgo" = "1个月前";
+
+/* One Week Ago Text */
+"OneWeekAgo" = "1周前";
+
+/* One Year Ago Text */
+"OneYearAgo" = "1年前";
+
+/* Today Text */
+"Today" = "今天";
+
+/* %d Days Ago */
+"XDaysAgo" = "%d天前";
+
+/* %d Months Ago */
+"XMonthsAgo" = "%d个月前";
+
+/* %d Weeks Ago */
+"XWeeksAgo" = "%d周前";
+
+/* %d Years Ago */
+"XYearsAgo" = "%d年前";
+
+/* Yesterday Text */
+"Yesterday" = "昨天";
+
+/* Menu Calendar */
+"MenuCalendar" = "显示日历";
+
+/* Menu Camera */
+"MenuCamera" = "选择照片";
+
+/* Menu Remove */
+"MenuRemove" = "删除记录";
+
+/* Menu Setting */
+"MenuSetting" = "个人设置";
+
+/* Menu Social */
+"MenuSocial" = "社交分享";
+
+/* Menu Today */
+"MenuToday" = "来到今天";
+
+/* Menu Weight */
+"MenuWeight" = "选择体重";
+
+/* Share Content */
+"ShareContent" = "%@, 我的体重是%@, %@, 属于%@。";
+
+/* About Text */
+"About" = "关于";
+
+/* Calorie Text */
+"Calorie" = "热量助手";
+
+/* Use iCloud Text */
+"UseiCloud" = "使用 iCloud";
+
+/* Extra Text */
+"Extra" = "额外";
+
+/* General Text */
+"General" = "常用";
+
+/* Height Text */
+"Height" = "身高";
+
+/* Knowledge Base Text */
+"Knowledge Base" = "知识库";
+
+/* Unit Text */
+"Unit" = "单位";
+
+/* Unit Metric Text */
+"Unit Metric" = "英制";
+
+/* Unit Standard Text */
+"Unit Standard" = "公制";
+
+/* Theme Text" */
+"Theme" = "主题";
+
+/* Theme Light Text */
+"ThemeLight" = "白天";
+
+/* Theme Dark Text */
+"ThemeDark" = "夜间";
+
+/* No Records Title */
+"NoRecordsTitle" = "没有记录";
+
+/* No Records Description */
+"NoRecordsDescription" = "如果启用了iCloud，需要花一点时间才能看到你的记录，或者双击视图中的任意位置来新增第一条记录";
+
+/* Loading Text */
+"Loading" = "正在载入...";
+
+/* Network Error */
+"NetworkError" = "不能访问服务器";
+
+/* Knowledge Text */
+"Knowledge" = "知识";
+
+/* Guide Text of Show Calendar */
+"GuideDate" = "点击日期，显示日历";
+
+/* Guide Text of Change Photo */
+"GuidePhoto" = "点击照片，选择照片";
+
+/* Guide Text of Remove Record */
+"GuideRemove" = "摇动手机，删除记录";
+
+/* Guide Text of Social Share */
+"GuideShare" = "长按屏幕，社交分享";
+
+/* Guide Text of Go Today */
+"GuideToday" = "双击屏幕，来到今天";
+
+/* Guide Text of Change Weight */
+"GuideWeight" = "点击体重，选择体重";
+
+/* Calculate BMI */
+"BMI" = "计算BMI";
+
+/* Guide Text */
+"Guide" = "使用指南";
+
+/* iCloud Error Message */
+"iCloudErrorMessage" = "加载你的 iCloud 库时发生未知错误。请确认“设置”中的“iCloud 文稿和数据”已允许“体重”使用。如果问题依旧存在，请联系技术支持。";
+
+/* iCloud Error Title */
+"iCloudErrorTitle" = "无法加载你的 iCloud 库";
+
+/* Retry */
+"Retry" = "重试";
+
+/* Use Local Store */
+"UseLocalStore" = "使用本地库";
+
+/* iRate message */
+"iRateAppMessage" = "如果您觉得“每日体重记录”对您有帮助，可否为其评一个分数？";
+
+/* iRate decline button */
+"iRateCancelButton" = "不了，谢谢";
+
+/* iRate message title */
+"iRateMessageTitle" = "把好消息传出去";
+
+/* iRate accept button */
+"iRateRateButton" = "现在去评分";
+
+/* iRate remind button */
+"iRateRemindButton" = "稍后再说";
+
+/* Cross Promotion Calorie URL */
+"CrossPromotionCalorie" = "http://taps.io/cpcc";

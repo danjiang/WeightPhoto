@@ -1,0 +1,35 @@
+/* Class = "IBUILabel"; text = "Tap to add weight"; ObjectID = "VRe-pK-BBe"; */
+"VRe-pK-BBe.text" = "点击新增体重";
+
+/* Class = "IBUILabel"; text = "Tap to add photo"; ObjectID = "mjO-9a-M4q"; */
+"mjO-9a-M4q.text" = "点击新增照片";
+
+/* Class = "IBUINavigationItem"; title = "Setting"; ObjectID = "ucS-YA-fhn"; */
+"ucS-YA-fhn.title" = "设置";
+
+/* Class = "IBUINavigationItem"; title = "About"; ObjectID = "Jwt-CJ-kJT"; */
+"Jwt-CJ-kJT.title" = "关于";
+
+/* Class = "IBUILabel"; text = "Daily Weight Tracker"; ObjectID = "4ga-Wh-wym"; */
+"4ga-Wh-wym.text" = "每日体重记录";
+
+/* Class = "IBUILabel"; text = "Help You Track Weight and Lose Weight"; ObjectID = "OtO-ga-oZl"; */
+"OtO-ga-oZl.text" = "帮助您记录体重和减肥";
+
+/* Class = "IBUILabel"; text = "Rate"; ObjectID = "MbP-DF-Sp4"; */
+"MbP-DF-Sp4.text" = "评价";
+
+/* Class = "IBUILabel"; text = "Feedback"; ObjectID = "rT4-U2-IDz"; */
+"rT4-U2-IDz.text" = "反馈";
+
+/* Class = "IBUILabel"; text = "Website"; ObjectID = "HS5-VW-2Tc"; */
+"HS5-VW-2Tc.text" = "网站";
+
+/* Class = "IBUILabel"; text = "Designed and Developed by"; ObjectID = "Im9-3X-W4q"; */
+"Im9-3X-W4q.text" = "设计和开发";
+
+/* Class = "IBUINavigationItem"; title = "Knowledge Base"; ObjectID = "Eub-b4-P9d"; */
+"Eub-b4-P9d.title" = "知识库";
+
+/* Class = "IBUINavigationItem"; title = "Welcome"; ObjectID = "l4D-ME-Vxs"; */
+"l4D-ME-Vxs.title" = "欢迎";

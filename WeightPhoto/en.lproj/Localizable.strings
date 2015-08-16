@@ -1,0 +1,203 @@
+/* Cancel Text */
+"Cancel" = "Cancel";
+
+/* Open Text */
+"Open" = "Open";
+
+/* OK Text */
+"OK" = "OK";
+
+/* App Version Text */
+"App Version" = "Version %@";
+
+/* Feedback Mail Subject */
+"FeedbackSubject" = "Leave your feedback";
+
+/* Feedback Mail Body */
+"FeedbackBody" = "Shower us with praise, or flame us for a bug. We`d love to get your feedback.";
+
+/* Leaving Alert Title */
+"LeavingAlertTitle" = "Leave this app?";
+
+/* Leaving Alert Message */
+"LeavingAlertMessage" = "Your operation is requesting to open external application. Would you like to continue?";
+
+/* Setting Mail Alert Title */
+"MailAlertTitle" = "Mail Account Needed";
+
+/* Setting Mail Alert Message */
+"MailAlertMessage" = "To set up an account, tap the Home button, tap Settings, then tap “Mail, Contacts, Calendars.“";
+
+/* Fat Text */
+"Fat" = "Fat";
+
+/* Health Text */
+"Health" = "Health";
+
+/* Overweight Text */
+"Overweight" = "Overweight";
+
+/* Thin Text */
+"Thin" = "Thin";
+
+/* Future Text */
+"Future" = "Future";
+
+/* One Month Ago Text */
+"OneMonthAgo" = "1 MONTH AGO";
+
+/* One Week Ago Text */
+"OneWeekAgo" = "1 WEEK AGO";
+
+/* One Year Ago Text */
+"OneYearAgo" = "1 YEAR AGO";
+
+/* Today Text */
+"Today" = "TODAY";
+
+/* %d Days Ago */
+"XDaysAgo" = "%d DAYS AGO";
+
+/* %d Months Ago */
+"XMonthsAgo" = "%d MONTHS AGO";
+
+/* %d Weeks Ago */
+"XWeeksAgo" = "%d WEEKS AGO";
+
+/* %d Years Ago */
+"XYearsAgo" = "%d YEARS AGO";
+
+/* Yesterday Text */
+"Yesterday" = "YESTERDAY";
+
+/* Menu Calendar */
+"MenuCalendar" = "Calendar";
+
+/* Menu Camera */
+"MenuCamera" = "Choose Photo";
+
+/* Menu Remove */
+"MenuRemove" = "Remove";
+
+/* Menu Setting */
+"MenuSetting" = "Setting";
+
+/* Menu Social */
+"MenuSocial" = "Social Share";
+
+/* Menu Today */
+"MenuToday" = "Go Today";
+
+/* Menu Weight */
+"MenuWeight" = "Choose Weight";
+
+/* Share Content */
+"ShareContent" = "%@ My weight is %@ %@ %@";
+
+/* About Text */
+"About" = "About";
+
+/* Calorie Text */
+"Calorie" = "Calorie";
+
+/* Use iCloud Text */
+"UseiCloud" = "Use iCloud";
+
+/* Extra Text */
+"Extra" = "Extra";
+
+/* General Text */
+"General" = "General";
+
+/* Height Text */
+"Height" = "Height";
+
+/* Knowledge Base Text */
+"Knowledge Base" = "Knowledge Base";
+
+/* Unit Text */
+"Unit" = "Unit";
+
+/* Unit Metric Text */
+"Unit Metric" = "Metric";
+
+/* Unit Standard Text */
+"Unit Standard" = "Standard";
+
+/* Theme Text" */
+"Theme" = "Theme";
+
+/* Theme Light Text */
+"ThemeLight" = "Light";
+
+/* Theme Dark Text */
+"ThemeDark" = "Dark";
+
+/* No Records Title */
+"NoRecordsTitle" = "No Records";
+
+/* No Records Description */
+"NoRecordsDescription" = "If iCloud is enabled, it may take a while to see your records. Or double tap anywhere of the view to create your first record";
+
+/* Loading Text */
+"Loading" = "Loading...";
+
+/* Network Error  */
+"NetworkError" = "Can not access the server";
+
+/* Knowledge Text */
+"Knowledge" = "Knowledge";
+
+/* Guide Text of Show Calendar */
+"GuideDate" = "Tap date to show calendar";
+
+/* Guide Text of Change Photo */
+"GuidePhoto" = "Tap photo to choose photo";
+
+/* Guide Text of Remove Record */
+"GuideRemove" = "Shake device to remove";
+
+/* Guide Text of Social Share */
+"GuideShare" = "Press and hold screen to share";
+
+/* Guide Text of Go Today */
+"GuideToday" = "Double tap screen to go today";
+
+/* Guide Text of Change Weight */
+"GuideWeight" = "Tap weight to choose weight";
+
+/* Calculate BMI */
+"BMI" = "Calculate BMI";
+
+/* Guide Text */
+"Guide" = "Guide";
+
+/* iCloud Error Message */
+"iCloudErrorMessage" = "There was an unknown error while loading your iCloud library. Make sure that iCloud Documents & Data is turned on for Weight in Settings. Contact support should this issue persist.";
+
+/* iCloud Error Title */
+"iCloudErrorTitle" = "Couldn`t load your iCloud library";
+
+/* Retry */
+"Retry" = "Retry";
+
+/* Use Local Store */
+"UseLocalStore" = "Use Local Library";
+
+/* iRate message */
+"iRateAppMessage" = "If you think Daily Weight Tracker is helpful, would you mind taking a moment to rate it?";
+
+/* iRate decline button */
+"iRateCancelButton" = "No, Thanks";
+
+/* iRate message title */
+"iRateMessageTitle" = "Help Spread the Word";
+
+/* iRate accept button */
+"iRateRateButton" = "Rate It Now";
+
+/* iRate remind button */
+"iRateRemindButton" = "Remind Me Later";
+
+/* Cross Promotion Calorie URL */
+"CrossPromotionCalorie" = "http://taps.io/cpce";
